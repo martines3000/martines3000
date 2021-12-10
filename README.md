@@ -1,6 +1,7 @@
-### Hi there 👋
-
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=martines3000&count_private=true&show_icons=true&theme=highcontrast" />
+
+### Hi there 👋
 
 - 🔭 I’m currently working on ... too many projects 
 - 🌱 I’m currently learning ... NextJS and NestJS
