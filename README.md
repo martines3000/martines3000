@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=martines3000&show_icons=true&title_color=c9d1d9&text_color=eeeeee&icon_color=58a6ff&bg_color=161b22&hide_border=true&border_radius=6" />
+
+
 - 🔭 I’m currently working on ... too many projects 
 - 🌱 I’m currently learning ... NextJS and NestJS
 - 👯 I’m looking to collaborate on ... Blockchain/AI projects
