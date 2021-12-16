@@ -1,10 +1,46 @@
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=martines3000&count_private=true&show_icons=true&theme=highcontrast" />
+# Greetings traveler! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-### Hi there 👋
+### I see you stumbled upon my page. If you are interested to know more about me and how to contact me, keep scrolling, maybe you will also find secrets.
 
-- 🔭 I’m currently working on ... too many projects 
+---
+
+<!-- <a href="https://github.com/plesastapevka/github-readme-stats">
+  <img align="right" height="200" src="https://github-readme-streak-stats.herokuapp.com?user=martines3000&theme=dark&date_format=M%20j%5B%2C%20Y%5D" />
+</a> -->
+
+>
+
+<img align="left" height="170" alt="Reddit character" src="character.png"/>
+
+### **Short info**
+
+- 🔭 I’m currently working on ... too many projects
 - 🌱 I’m currently learning ... NextJS and NestJS
+- 🏢 I'm working at ... **[Blockchain Lab:UM](https://blockchain-lab.um.si/?lang=en)**
 - 👯 I’m looking to collaborate on ... Blockchain/AI projects
 - 💬 Ask me about ... the coffee I'm currently drinking
-- ⚡ Fun fact: Programmers are machines that turn coffee into code
+- ⚡ **Fun fact:** Programmers are machines that turn coffee into code
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/martin-domajnko/)
+
+#
+
+### If you get excited if someone shows you their dotfiles, take a look here: [:scroll:](https://iterm2.com/)
+
+- Most of the configurations also include screenshots
+
+#
+
+### :musical_note: I'm a big music enthusiast. Current activity:
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=martines3000&cover_image=true&theme=novatorem&bar_color=57f051&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=martines3000&redirect=true)
+
+#
+
+### :book: I also like to read books
+
+- Interested in my reading [list](https://www.goodreads.com/user/show/85786024-martin-domajnko)
+- By far my favorite book series [Bobiverse](https://www.goodreads.com/series/192752-bobiverse) - (We Are Bob) &rarr; Give it a try, I promise you won't regret it :wink:
+- If you need something that will occupy you for longer, check out this series &rarr; [Expeditionary force](https://www.goodreads.com/series/185650-expeditionary-force)
+
+### :construction: ... In construction
