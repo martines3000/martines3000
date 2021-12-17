@@ -25,7 +25,7 @@
 
 #
 
-### If you get excited if someone shows you their dotfiles, take a look here: [:scroll:](https://iterm2.com/)
+### If you get excited if someone shows you their dotfiles, take a look here: [:scroll:](https://github.com/martines3000/dotfiles)
 
 - Most of the configurations also include screenshots
 
