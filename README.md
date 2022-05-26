@@ -46,6 +46,10 @@
 ### Books I'm currently reading
 
 <!-- GOODREADS-LIST:START -->
+- [Fooled by Randomness: The Hidden Role of Chance in Life and in the Markets](https://www.goodreads.com/review/show/3899464336?utm_medium=api&utm_source=rss) by Nassim Nicholas Taleb (⭐️4.07)
+- [Season of Storms (The Witcher, #0)](https://www.goodreads.com/review/show/4408632361?utm_medium=api&utm_source=rss) by Andrzej Sapkowski (⭐️3.95)
+- [Poems of Power](https://www.goodreads.com/review/show/4316586720?utm_medium=api&utm_source=rss) by Ella Wheeler Wilcox (⭐️4.04)
+- [How to Change Your Mind: What the New Science of Psychedelics Teaches Us about Consciousness, Dying, Addiction, Depression, and Transcendence](https://www.goodreads.com/review/show/3003368115?utm_medium=api&utm_source=rss) by Michael Pollan (⭐️4.27)
 <!-- GOODREADS-LIST:END -->
 
 ### I'm also listening to a lot of podcasts. My updated [list](https://martines3000.notion.site/martines3000/5e0519314e93426f9f1e5f53a7847637?v=394ebcf142a04541866b66da76b12eaa).
