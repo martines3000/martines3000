@@ -1,6 +1,5 @@
 # Work experience
 
----
 
 ## Full stack developer
 
