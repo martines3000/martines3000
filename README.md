@@ -43,9 +43,10 @@
 - By far my favorite book series [Bobiverse](https://www.goodreads.com/series/192752-bobiverse) - (We Are Bob) &rarr; Give it a try, I promise you won't regret it :wink:
 - If you need something that will occupy you for longer, check out this series &rarr; [Expeditionary force](https://www.goodreads.com/series/185650-expeditionary-force)
 
-### Books I'm currently reading
+#### Currently reading
 
 <!-- GOODREADS-LIST:START -->
+
 - [Fooled by Randomness: The Hidden Role of Chance in Life and in the Markets](https://www.goodreads.com/review/show/3899464336?utm_medium=api&utm_source=rss) by Nassim Nicholas Taleb (⭐️4.07)
 - [Season of Storms (The Witcher, #0)](https://www.goodreads.com/review/show/4408632361?utm_medium=api&utm_source=rss) by Andrzej Sapkowski (⭐️3.95)
 - [Poems of Power](https://www.goodreads.com/review/show/4316586720?utm_medium=api&utm_source=rss) by Ella Wheeler Wilcox (⭐️4.04)
