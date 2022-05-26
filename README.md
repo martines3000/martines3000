@@ -43,5 +43,11 @@
 - By far my favorite book series [Bobiverse](https://www.goodreads.com/series/192752-bobiverse) - (We Are Bob) &rarr; Give it a try, I promise you won't regret it :wink:
 - If you need something that will occupy you for longer, check out this series &rarr; [Expeditionary force](https://www.goodreads.com/series/185650-expeditionary-force)
 
+### Books I'm currently reading
+
+<!-- GOODREADS-LIST:START -->
+<!-- GOODREADS-LIST:END -->
+
 ### I'm also listening to a lot of podcasts. My updated [list](https://martines3000.notion.site/martines3000/5e0519314e93426f9f1e5f53a7847637?v=394ebcf142a04541866b66da76b12eaa).
+
 ### :construction: ... In construction
