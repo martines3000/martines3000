@@ -27,7 +27,6 @@
       - Helped with development of a browser wallet for storing and using verifiable credentials ([Veramo](https://veramo.io/), [Metamask Flask](https://metamask.io/flask/))
       - More info: [MEDIUM POST](https://medium.com/@blockchainlabum/its-time-to-prove-your-worth-in-dao-ssi-using-metamask-snaps-part-1-3-cfed7c10e6f7)
 
----
 
 ## Blockchain developer
 
@@ -35,14 +34,12 @@
 - Feb 2022 - May 2022
 - Security audit of Solidity smart contracts
 
----
 
 ## Full stack developer
 
 - [EBSI](https://ec.europa.eu/digital-building-blocks/wikis/display/EBSI/Home) · Contract
 - May 2022 - Present
 
----
 
 ### Other projects:
 
