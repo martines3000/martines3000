@@ -41,7 +41,7 @@
 - May 2022 - Present
 
 
-### Other projects:
+## Other projects:
 
 - Built website for [Voxel City](https://www.voxel-city.com/about)
 - Worked couple of summer holidays at a 4 star Hotel in Austria as a janitor and dishwasher
