@@ -68,7 +68,7 @@
   - **University**: Faculty of Electrical Engineering and Computer Science, University of Maribor
   - **Thesis title**: / &rarr; Not yet completed
 
-### [Work experiences](pages/work.md)
+### [Work experience](pages/work.md)
 
 ### [Competitions](pages/competitions.md)
 
