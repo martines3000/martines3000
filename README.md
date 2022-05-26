@@ -17,7 +17,7 @@
 - 🔭 I’m currently working on ... too many projects
 - 🌱 I’m currently learning ... NextJS and NestJS
 - 🏢 I'm working at ... **[Blockchain Lab:UM](https://blockchain-lab.um.si/?lang=en)**
-- 👯 I’m looking to collaborate on ... Blockchain/AI projects
+- 👯 I’m looking to collaborate on ... Impactful
 - 💬 Ask me about ... the coffee I'm currently drinking
 - ⚡ **Fun fact:** Programmers are machines that turn coffee into code
 
@@ -54,5 +54,30 @@
 <!-- GOODREADS-LIST:END -->
 
 ### I'm also listening to a lot of podcasts. My updated [list](https://martines3000.notion.site/martines3000/5e0519314e93426f9f1e5f53a7847637?v=394ebcf142a04541866b66da76b12eaa).
+
+## Experience
+
+### Studies
+
+- Bachelor's degree in computer science:
+
+  - **University**: Faculty of Electrical Engineering and Computer Science, University of Maribor
+  - **Thesis title**: Object detection in satellite images with deep learning methods on embedded system
+
+- Masters's degree in computer science:
+  - **University**: Faculty of Electrical Engineering and Computer Science, University of Maribor
+  - **Thesis title**: / &rarr; Not yet completed
+
+### [Work experiences](pages/work.md)
+
+### [Competitions](pages/competitions.md)
+
+### [Papers](pages/papers.md)
+
+### Other
+
+- I play tennis :tennis: since I was 4 years old
+- I really like lifting weights :weight_lifting: and calisthenics
+- I really like to learn about things that affect longevity, health, sleep, our performance, our psychology ...
 
 ### :construction: ... In construction
