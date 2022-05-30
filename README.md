@@ -46,7 +46,6 @@
 #### Currently reading
 
 <!-- GOODREADS-LIST:START -->
-
 - [Fooled by Randomness: The Hidden Role of Chance in Life and in the Markets](https://www.goodreads.com/review/show/3899464336?utm_medium=api&utm_source=rss) by Nassim Nicholas Taleb (⭐️4.07)
 - [Season of Storms (The Witcher, #0)](https://www.goodreads.com/review/show/4408632361?utm_medium=api&utm_source=rss) by Andrzej Sapkowski (⭐️3.95)
 - [Poems of Power](https://www.goodreads.com/review/show/4316586720?utm_medium=api&utm_source=rss) by Ella Wheeler Wilcox (⭐️4.04)
