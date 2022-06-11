@@ -14,10 +14,10 @@
 
 ### **Short info**
 
-- 🔭 I’m currently working on ... too many projects
-- 🌱 I’m currently learning ... NextJS and NestJS
+- 🔭 I’m part of the development team working on ...  **[EBSI](https://ec.europa.eu/digital-building-blocks/wikis/display/EBSI/Home)**
+- 🌱 I’m currently learning ... Rust and extending my knowledge in Solidity
 - 🏢 I'm working at ... **[Blockchain Lab:UM](https://blockchain-lab.um.si/?lang=en)**
-- 👯 I’m looking to collaborate on ... Impactful
+- 👯 I’m looking to collaborate on ... Rust projects
 - 💬 Ask me about ... the coffee I'm currently drinking
 - ⚡ **Fun fact:** Programmers are machines that turn coffee into code
 
