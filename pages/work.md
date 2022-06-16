@@ -1,10 +1,9 @@
 # Work experience
 
 
-## Full stack developer
+## Full stack developer (2019 - Present)
 
 - [Blockchain Lab:UM](https://blockchain-lab.um.si/?lang=en) · Contract
-- 2019 - Present
 - Responsible for developing, maintaining and deploying a lot of different projects
 
 - Technologies I worked with:
@@ -27,17 +26,15 @@
       - More info: [MEDIUM POST](https://medium.com/@blockchainlabum/its-time-to-prove-your-worth-in-dao-ssi-using-metamask-snaps-part-1-3-cfed7c10e6f7)
 
 
-## Blockchain developer
+## Blockchain developer (Feb 2022 - May 2022)
 
 - [EBSI](https://ec.europa.eu/digital-building-blocks/wikis/display/EBSI/Home) · Contract
-- Feb 2022 - May 2022
 - Security audit of Solidity smart contracts
 
 
-## Full stack developer
+## Full stack developer (May 2022 - Present)
 
 - [EBSI](https://ec.europa.eu/digital-building-blocks/wikis/display/EBSI/Home) · Contract
-- May 2022 - Present
 
 
 ## Other projects:
