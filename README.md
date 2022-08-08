@@ -16,7 +16,7 @@
 
 - 🔭 I’m part of the development team working on ...  **[EBSI](https://ec.europa.eu/digital-building-blocks/wikis/display/EBSI/Home)**
 - 🌱 I’m currently learning ... **Rust** and all things connected with **[Starknet](https://starkware.co/starknet/)**
-- :gear: I'm currently playing around with ... **[Foundry](https://github.com/foundry-rs/foundry)** and **[Regolith desktop](https://regolith-desktop.com/)**
+- :gear: I'm currently playing around with ... **[Foundry](https://github.com/foundry-rs/foundry)** and **Arch**
 - 🏢 I'm working at ... **[Blockchain Lab:UM](https://blockchain-lab.um.si/?lang=en)**
 - 👯 I’m looking to collaborate on ... Blockchain projects
 - 💬 Ask me about ... the coffee I'm currently drinking
