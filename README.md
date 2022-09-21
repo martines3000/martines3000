@@ -32,6 +32,14 @@
 
 #
 
+### [Work experience](pages/work.md)
+
+### [Competitions](pages/competitions.md)
+
+### [Papers](pages/papers.md)
+
+#
+
 ### :musical_note: I'm a big music enthusiast. Current activity:
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=martines3000&cover_image=true&theme=novatorem&bar_color=57f051&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=martines3000&redirect=true)
@@ -67,12 +75,6 @@
 - Masters's degree in computer science:
   - **University**: Faculty of Electrical Engineering and Computer Science, University of Maribor
   - **Thesis title**: / &rarr; Not yet completed
-
-### [Work experience](pages/work.md)
-
-### [Competitions](pages/competitions.md)
-
-### [Papers](pages/papers.md)
 
 ### Other
 
