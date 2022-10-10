@@ -55,8 +55,8 @@
 #### Currently reading
 
 <!-- GOODREADS-LIST:START -->
-- [The Time of Contempt (The Witcher, #2)](https://www.goodreads.com/review/show/4408632417?utm_medium=api&utm_source=rss) by Andrzej Sapkowski (⭐️4.09)
-- [Fooled by Randomness: The Hidden Role of Chance in Life and in the Markets](https://www.goodreads.com/review/show/3899464336?utm_medium=api&utm_source=rss) by Nassim Nicholas Taleb (⭐️4.07)
+- [The Tower of the Swallow (The Witcher, #4)](https://www.goodreads.com/review/show/4408632466?utm_medium=api&utm_source=rss) by Andrzej Sapkowski (⭐️4.16)
+- [Fooled by Randomness: The Hidden Role of Chance in Life and in the Markets](https://www.goodreads.com/review/show/3899464336?utm_medium=api&utm_source=rss) by Nassim Nicholas Taleb (⭐️4.08)
 - [Poems of Power](https://www.goodreads.com/review/show/4316586720?utm_medium=api&utm_source=rss) by Ella Wheeler Wilcox (⭐️4)
 - [How to Change Your Mind: What the New Science of Psychedelics Teaches Us about Consciousness, Dying, Addiction, Depression, and Transcendence](https://www.goodreads.com/review/show/3003368115?utm_medium=api&utm_source=rss) by Michael Pollan (⭐️4.27)
 <!-- GOODREADS-LIST:END -->
