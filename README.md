@@ -3,13 +3,6 @@
 ### I see you stumbled upon my page. If you are interested to know more about me and how to contact me, keep scrolling, maybe you will also find secrets.
 
 #
-
-<!-- <a href="https://github.com/plesastapevka/github-readme-stats">
-  <img align="right" height="200" src="https://github-readme-streak-stats.herokuapp.com?user=martines3000&theme=dark&date_format=M%20j%5B%2C%20Y%5D" />
-</a> -->
-
->
-
 <img align="left" height="170" alt="Reddit character" src="character.png"/>
 
 ### **Short info**
