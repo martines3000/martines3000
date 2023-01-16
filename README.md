@@ -48,6 +48,7 @@
 #### Currently reading
 
 <!-- GOODREADS-LIST:START -->
+- [The Lady of the Lake (The Witcher, #5)](https://www.goodreads.com/review/show/4408632916?utm_medium=api&utm_source=rss) by Andrzej Sapkowski (⭐️4.03)
 - [Failure Mode (Expeditionary Force, #15)](https://www.goodreads.com/review/show/5192743692?utm_medium=api&utm_source=rss) by Craig Alanson (⭐️4.52)
 - [Poems of Power](https://www.goodreads.com/review/show/4316586720?utm_medium=api&utm_source=rss) by Ella Wheeler Wilcox (⭐️4)
 - [How to Change Your Mind: What the New Science of Psychedelics Teaches Us about Consciousness, Dying, Addiction, Depression, and Transcendence](https://www.goodreads.com/review/show/3003368115?utm_medium=api&utm_source=rss) by Michael Pollan (⭐️4.27)
