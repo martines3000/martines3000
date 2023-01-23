@@ -48,10 +48,10 @@
 #### Currently reading
 
 <!-- GOODREADS-LIST:START -->
+- [He Who Fights with Monsters (He Who Fights with Monsters, #1)](https://www.goodreads.com/review/show/4448960163?utm_medium=api&utm_source=rss) by Shirtaloon (⭐️4.45)
 - [The Lady of the Lake (The Witcher, #5)](https://www.goodreads.com/review/show/4408632916?utm_medium=api&utm_source=rss) by Andrzej Sapkowski (⭐️4.03)
-- [Failure Mode (Expeditionary Force, #15)](https://www.goodreads.com/review/show/5192743692?utm_medium=api&utm_source=rss) by Craig Alanson (⭐️4.52)
+- [Failure Mode (Expeditionary Force, #15)](https://www.goodreads.com/review/show/5192743692?utm_medium=api&utm_source=rss) by Craig Alanson (⭐️4.51)
 - [Poems of Power](https://www.goodreads.com/review/show/4316586720?utm_medium=api&utm_source=rss) by Ella Wheeler Wilcox (⭐️4)
-- [How to Change Your Mind: What the New Science of Psychedelics Teaches Us about Consciousness, Dying, Addiction, Depression, and Transcendence](https://www.goodreads.com/review/show/3003368115?utm_medium=api&utm_source=rss) by Michael Pollan (⭐️4.27)
 <!-- GOODREADS-LIST:END -->
 
 ### I'm also listening to a lot of podcasts. My updated [list](https://martines3000.notion.site/martines3000/5e0519314e93426f9f1e5f53a7847637?v=394ebcf142a04541866b66da76b12eaa).
