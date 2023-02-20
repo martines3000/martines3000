@@ -48,6 +48,7 @@
 #### Currently reading
 
 <!-- GOODREADS-LIST:START -->
+- [He Who Fights with Monsters 5 (He Who Fights with Monsters, #5)](https://www.goodreads.com/review/show/5357030115?utm_medium=api&utm_source=rss) by Shirtaloon (⭐️4.54)
 - [The Lady of the Lake (The Witcher, #5)](https://www.goodreads.com/review/show/4408632916?utm_medium=api&utm_source=rss) by Andrzej Sapkowski (⭐️4.03)
 - [Failure Mode (Expeditionary Force, #15)](https://www.goodreads.com/review/show/5192743692?utm_medium=api&utm_source=rss) by Craig Alanson (⭐️4.49)
 - [Poems of Power](https://www.goodreads.com/review/show/4316586720?utm_medium=api&utm_source=rss) by Ella Wheeler Wilcox (⭐️4)
