@@ -9,7 +9,7 @@
 - Technologies I worked with:
   - **Frontend**:
     - Next.js, React
-    - MUI, styled components
+    - Tailwind, MUI, styled components
   - **Backend**:
     - Nest.js, Node.js
   - **Blockchain related**:
