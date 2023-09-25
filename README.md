@@ -48,7 +48,7 @@
 #### Currently reading
 
 <!-- GOODREADS-LIST:START -->
-- [Of Slicing Men (The Good Guys, #14)](https://www.goodreads.com/review/show/5660134655?utm_medium=api&utm_source=rss) by Eric Ugland (⭐️4.62)
+- [Of Slicing Men (The Good Guys, #14)](https://www.goodreads.com/review/show/5660134655?utm_medium=api&utm_source=rss) by Eric Ugland (⭐️4.61)
 - [The Selfish Gene](https://www.goodreads.com/review/show/4605243130?utm_medium=api&utm_source=rss) by Richard Dawkins (⭐️4.15)
 - [The Lady of the Lake (The Witcher, #5)](https://www.goodreads.com/review/show/4408632916?utm_medium=api&utm_source=rss) by Andrzej Sapkowski (⭐️4.02)
 - [Poems of Power](https://www.goodreads.com/review/show/4316586720?utm_medium=api&utm_source=rss) by Ella Wheeler Wilcox (⭐️4)
