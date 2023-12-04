@@ -48,10 +48,9 @@
 #### Currently reading
 
 <!-- GOODREADS-LIST:START -->
-- [On a Throne of Lies (The Bad Guys Book #10)](https://www.goodreads.com/review/show/5660130291?utm_medium=api&utm_source=rss) by Eric Ugland (⭐️4.52)
+- [The Energy Paradox: What to Do When Your Get-Up-and-Go Has Got Up and Gone](https://www.goodreads.com/review/show/4208606306?utm_medium=api&utm_source=rss) by Steven R. Gundry (⭐️3.53)
 - [The Selfish Gene](https://www.goodreads.com/review/show/4605243130?utm_medium=api&utm_source=rss) by Richard Dawkins (⭐️4.15)
 - [The Lady of the Lake (The Witcher, #5)](https://www.goodreads.com/review/show/4408632916?utm_medium=api&utm_source=rss) by Andrzej Sapkowski (⭐️4.02)
-- [Poems of Power](https://www.goodreads.com/review/show/4316586720?utm_medium=api&utm_source=rss) by Ella Wheeler Wilcox (⭐️4)
 <!-- GOODREADS-LIST:END -->
 
 ### I'm also listening to a lot of podcasts. My updated [list](https://martines3000.notion.site/martines3000/5e0519314e93426f9f1e5f53a7847637?v=394ebcf142a04541866b66da76b12eaa).
