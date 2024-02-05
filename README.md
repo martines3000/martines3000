@@ -49,7 +49,7 @@
 
 <!-- GOODREADS-LIST:START -->
 - [The Gate of the Feral Gods (Dungeon Crawler Carl, #4)](https://www.goodreads.com/review/show/6195372802?utm_medium=api&utm_source=rss) by Matt Dinniman (⭐️4.6)
-- [The Energy Paradox: What to Do When Your Get-Up-and-Go Has Got Up and Gone](https://www.goodreads.com/review/show/4208606306?utm_medium=api&utm_source=rss) by Steven R. Gundry (⭐️3.52)
+- [The Energy Paradox: What to Do When Your Get-Up-and-Go Has Got Up and Gone](https://www.goodreads.com/review/show/4208606306?utm_medium=api&utm_source=rss) by Steven R. Gundry (⭐️3.53)
 - [The Selfish Gene](https://www.goodreads.com/review/show/4605243130?utm_medium=api&utm_source=rss) by Richard Dawkins (⭐️4.15)
 - [The Lady of the Lake (The Witcher, #5)](https://www.goodreads.com/review/show/4408632916?utm_medium=api&utm_source=rss) by Andrzej Sapkowski (⭐️4.02)
 <!-- GOODREADS-LIST:END -->
