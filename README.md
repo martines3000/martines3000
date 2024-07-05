@@ -35,12 +35,6 @@ I can deliver a week's worth of work within one day, so that we can have user fe
 
 #
 
-### :musical_note: I'm a big music enthusiast. Current activity:
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=martines3000&cover_image=true&theme=novatorem&bar_color=57f051&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=martines3000&redirect=true)
-
-#
-
 ### :book: I also like to read books
 
 - Interested in my reading [list](https://www.goodreads.com/user/show/85786024-martin-domajnko)
