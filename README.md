@@ -2,8 +2,16 @@
 
 ### I see you stumbled upon my page. If you are interested to know more about me and how to contact me, keep scrolling, maybe you will also find secrets.
 
+---
+
+###  Iteration velocity is what matters.
+
+I can deliver a week's worth of work within one day, so that we can have user feedback by the end of week.
+
 #
 <img align="left" height="170" alt="Reddit character" src="character.png"/>
+
+
 
 ### **Short info**
 
@@ -16,12 +24,6 @@
 - ⚡ **Fun fact:** Programmers are machines that turn coffee into code
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/martin-domajnko/)
-
-#
-
-### If you get excited if someone shows you their dotfiles, take a look here: [:scroll:](https://github.com/martines3000/dotfiles)
-
-- Most of the configurations also include screenshots
 
 #
 
