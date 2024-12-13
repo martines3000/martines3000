@@ -60,7 +60,7 @@ I can deliver a week's worth of work within one day, so that we can have user fe
 
 - Masters's degree in computer science:
   - **University**: Faculty of Electrical Engineering and Computer Science, University of Maribor
-  - **Thesis title**: / &rarr; Not yet completed
+  - **Thesis title**: [Transforming a relational database to blockchain based smart contracts](https://dk.um.si/IzpisGradiva.php?id=90295&lang=eng)
 
 ### Other
 
