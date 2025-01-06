@@ -44,6 +44,7 @@ I can deliver a week's worth of work within one day, so that we can have user fe
 #### Currently reading
 
 <!-- GOODREADS-LIST:START -->
+- [He Who Fights with Monsters 11 (He Who Fights with Monsters, #11)](https://www.goodreads.com/review/show/6589129692?utm_medium=api&utm_source=rss) by Shirtaloon (⭐️4.61)
 - [The Energy Paradox: What to Do When Your Get-Up-and-Go Has Got Up and Gone](https://www.goodreads.com/review/show/4208606306?utm_medium=api&utm_source=rss) by Steven R. Gundry (⭐️3.53)
 <!-- GOODREADS-LIST:END -->
 
