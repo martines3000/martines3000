@@ -44,7 +44,7 @@ I can deliver a week's worth of work within one day, so that we can have user fe
 #### Currently reading
 
 <!-- GOODREADS-LIST:START -->
-- [Aftermath (Expeditionary Force, #16)](https://www.goodreads.com/review/show/7048770997?utm_medium=api&utm_source=rss) by Craig Alanson (⭐️4.38)
+- [Aftermath (Expeditionary Force, #16)](https://www.goodreads.com/review/show/7048770997?utm_medium=api&utm_source=rss) by Craig Alanson (⭐️4.37)
 <!-- GOODREADS-LIST:END -->
 
 ### I'm also listening to a lot of podcasts. My updated [list](https://martines3000.notion.site/martines3000/5e0519314e93426f9f1e5f53a7847637?v=394ebcf142a04541866b66da76b12eaa).
